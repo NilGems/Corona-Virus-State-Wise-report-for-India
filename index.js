@@ -37,7 +37,7 @@ app.get('/', async (request, response) => {
                 if(table_rows_last_index > index){
                     const tableRowColumns = table_rows.eq(index).find('td');
                     data['data']['stateWise'].push({
-                        index:     ( tableRowColumns.eq(0).text() ).trim(),
+                        id:     ( tableRowColumns.eq(0).text() ).trim(),
                         stateName:      ( tableRowColumns.eq(1).text() ).trim(),
                         confirmedIndianCases:  ( tableRowColumns.eq(2).text() ).trim(),
                         confirmedForeignCases:  ( tableRowColumns.eq(3).text() ).trim(),
