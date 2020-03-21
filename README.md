@@ -14,7 +14,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
   "data": {
     "stateWise": [
       {
-        "index": "1",
+        "id": "1",
         "stateName": "Andhra Pradesh",
         "confirmedIndianCases": "3",
         "confirmedForeignCases": "0",
@@ -22,7 +22,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "2",
+        "id": "2",
         "stateName": "Chhattisgarh",
         "confirmedIndianCases": "1",
         "confirmedForeignCases": "0",
@@ -30,7 +30,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "3",
+        "id": "3",
         "stateName": "Delhi",
         "confirmedIndianCases": "25",
         "confirmedForeignCases": "1",
@@ -38,7 +38,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "1"
       },
       {
-        "index": "4",
+        "id": "4",
         "stateName": "Gujarat",
         "confirmedIndianCases": "7",
         "confirmedForeignCases": "0",
@@ -46,7 +46,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "5",
+        "id": "5",
         "stateName": "Haryana",
         "confirmedIndianCases": "3",
         "confirmedForeignCases": "14",
@@ -54,7 +54,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "6",
+        "id": "6",
         "stateName": "Himachal Pradesh",
         "confirmedIndianCases": "2",
         "confirmedForeignCases": "0",
@@ -62,7 +62,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "7",
+        "id": "7",
         "stateName": "Karnataka",
         "confirmedIndianCases": "15",
         "confirmedForeignCases": "0",
@@ -70,7 +70,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "1"
       },
       {
-        "index": "8",
+        "id": "8",
         "stateName": "Kerala",
         "confirmedIndianCases": "33",
         "confirmedForeignCases": "7",
@@ -78,7 +78,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "9",
+        "id": "9",
         "stateName": "Madhya Pradesh",
         "confirmedIndianCases": "4",
         "confirmedForeignCases": "0",
@@ -86,7 +86,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "10",
+        "id": "10",
         "stateName": "Maharashtra",
         "confirmedIndianCases": "60",
         "confirmedForeignCases": "3",
@@ -94,7 +94,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "1"
       },
       {
-        "index": "11",
+        "id": "11",
         "stateName": "Odisha",
         "confirmedIndianCases": "2",
         "confirmedForeignCases": "0",
@@ -102,7 +102,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "12",
+        "id": "12",
         "stateName": "Puducherry",
         "confirmedIndianCases": "1",
         "confirmedForeignCases": "0",
@@ -110,7 +110,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "13",
+        "id": "13",
         "stateName": "Punjab",
         "confirmedIndianCases": "13",
         "confirmedForeignCases": "0",
@@ -118,7 +118,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "1"
       },
       {
-        "index": "14",
+        "id": "14",
         "stateName": "Rajasthan",
         "confirmedIndianCases": "15",
         "confirmedForeignCases": "2",
@@ -126,7 +126,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "15",
+        "id": "15",
         "stateName": "Tamil Nadu",
         "confirmedIndianCases": "3",
         "confirmedForeignCases": "0",
@@ -134,7 +134,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "16",
+        "id": "16",
         "stateName": "Telengana",
         "confirmedIndianCases": "10",
         "confirmedForeignCases": "11",
@@ -142,7 +142,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "17",
+        "id": "17",
         "stateName": "Chandigarh",
         "confirmedIndianCases": "1",
         "confirmedForeignCases": "0",
@@ -150,7 +150,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "18",
+        "id": "18",
         "stateName": "Jammu and Kashmir",
         "confirmedIndianCases": "4",
         "confirmedForeignCases": "0",
@@ -158,7 +158,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "19",
+        "id": "19",
         "stateName": "Ladakh",
         "confirmedIndianCases": "13",
         "confirmedForeignCases": "0",
@@ -166,7 +166,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "20",
+        "id": "20",
         "stateName": "Uttar Pradesh",
         "confirmedIndianCases": "23",
         "confirmedForeignCases": "1",
@@ -174,7 +174,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "21",
+        "id": "21",
         "stateName": "Uttarakhand",
         "confirmedIndianCases": "3",
         "confirmedForeignCases": "0",
@@ -182,7 +182,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
         "deathCases": "0"
       },
       {
-        "index": "22",
+        "id": "22",
         "stateName": "West Bengal",
         "confirmedIndianCases": "3",
         "confirmedForeignCases": "0",
