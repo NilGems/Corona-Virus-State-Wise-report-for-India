@@ -1,0 +1,27 @@
+{
+  "name": "coronadashboard",
+  "version": "1.0.0",
+  "description": "dashboard for corona spreding details in india",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://nmondal28@bitbucket.org/nmondal28/corona-dashboard.git"
+  },
+  "keywords": [
+    "corona",
+    "virus",
+    "india"
+  ],
+  "author": "Niladri Shekhar Mondal <nldrmondal35@gmail.com>",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/nmondal28/corona-dashboard#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
