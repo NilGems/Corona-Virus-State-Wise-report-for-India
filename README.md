@@ -1450,11 +1450,11 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
 [CLICK HERE](https://na-corona-virus-statstics.herokuapp.com/)
 
 ## Data sources
--[Ministry of Health and Family Welfare of India](https://www.mohfw.gov.in/)
--[Health and Family Welfare Department of West Bengal](https://www.wbhealth.gov.in)
--[Global noval corona virus dashboard](https://ncov2019.live/)
--[Worldometer COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)
--[Google](https://google.com/)
+- [Ministry of Health and Family Welfare of India](https://www.mohfw.gov.in/)
+- [Health and Family Welfare Department of West Bengal](https://www.wbhealth.gov.in)
+- [Global noval corona virus dashboard](https://ncov2019.live/)
+- [Worldometer COVID-19 CORONAVIRUS PANDEMIC](https://www.worldometers.info/coronavirus/)
+- [Google](https://google.com/)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
