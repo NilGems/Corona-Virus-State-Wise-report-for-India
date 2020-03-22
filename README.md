@@ -1,5 +1,5 @@
 # API TO TRACK COVID-19 CORONAVIRUS PANDEMIC DATA FOR INDIA (DATA COLLECTED FROM RELIABLE SOURCE)
-API for Corona Virus report for India. Data source is "Ministry of Health and Family Welfare"
+API to track COVID-19 CORONAVIRUS PANDEMIC DATA FOR INDIA
 
 ## Usage
 - ```clone``` this git respiratory
