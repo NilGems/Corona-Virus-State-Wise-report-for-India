@@ -7,7 +7,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
 - run ```npm start``` from you TEMINAL
 - open ```127.0.0.1:3000``` from your browser.
 ## Output
-```
+```json
 {
   "status": true,
   "message": "Successful",
