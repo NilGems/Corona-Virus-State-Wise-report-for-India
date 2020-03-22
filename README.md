@@ -1449,6 +1449,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
 }
 ```
 </p>
+</details>
   
 ## API Response example
 [CLICK HERE](https://na-corona-virus-statstics.herokuapp.com/)
