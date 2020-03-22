@@ -9,6 +9,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
 ## Output
 <details><summary>CLICK ME</summary>
 <p>
+  
 ```json
 {
   "status": true,
@@ -1448,6 +1449,7 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
   ]
 }
 ```
+
 </p>
 </details>
   
