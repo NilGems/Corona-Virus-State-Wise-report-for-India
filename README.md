@@ -1,4 +1,4 @@
-# Corona-Virus-State-Wise-report-for-India
+# API COVID-19 CORONAVIRUS PANDEMIC IN INDIA (DATA COLLECTED FROM RELIABLE SOURCE)
 API for Corona Virus report for India. Data source is "Ministry of Health and Family Welfare"
 
 ## Usage
