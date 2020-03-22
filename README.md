@@ -7,6 +7,8 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
 - run ```npm start``` from you TEMINAL
 - open ```127.0.0.1:3000``` from your browser.
 ## Output
+<details><summary>CLICK ME</summary>
+<p>
 ```json
 {
   "status": true,
@@ -1446,6 +1448,8 @@ API for Corona Virus report for India. Data source is "Ministry of Health and Fa
   ]
 }
 ```
+</p>
+  
 ## API Response example
 [CLICK HERE](https://na-corona-virus-statstics.herokuapp.com/)
 
